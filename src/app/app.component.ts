@@ -20,7 +20,7 @@ export class AppComponent {
     this.date=Date.now();
     this.Data.getReadings().subscribe((val)=>{
       this.list=val;
-      //console.log(val);
+      console.log("val: ",val);
       this.rooms=this.list;
     });
   }

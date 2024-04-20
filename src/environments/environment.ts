@@ -1,10 +1,10 @@
 export const environment = {
   firebase: {
-    projectId: 'smart-home-b45e1',
-    appId: '1:602934868835:web:940d8987a7b3b7ff1c7156',
-    databaseURL: 'https://smart-home-b45e1-default-rtdb.firebaseio.com',
-    storageBucket: 'smart-home-b45e1.appspot.com',
-    apiKey: 'AIzaSyC7ExAfvi_-5Tj28_MSwyo0RVwsg7Op2kc',
-    authDomain: 'smart-home-b45e1.firebaseapp.com',
-    messagingSenderId: '602934868835',
+    projectId: 'smart-house-3631b',
+    appId: '1:364536990299:web:0e2b6c3e1cb5891dbccd7e',
+    databaseURL: 'https://smart-house-3631b-default-rtdb.firebaseio.com',
+    storageBucket: 'smart-house-3631b.appspot.com',
+    apiKey: 'AIzaSyAsyAOxNFjJFQRqD8KOMSmqkefe1J0qoE8',
+    authDomain: 'smart-house-3631b.firebaseapp.com',
+    messagingSenderId: '537977853148',
   },};
